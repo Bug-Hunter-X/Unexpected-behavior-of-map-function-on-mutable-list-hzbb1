@@ -1,0 +1,1 @@
+This repository contains a bug report and solution for an unexpected behavior of the map function in Kotlin when applied to a mutable list. The map function should modify the original mutable list, but it doesn't. The solution demonstrates the correct way to modify a mutable list using the map function.
